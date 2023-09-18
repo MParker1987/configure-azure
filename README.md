@@ -33,8 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://activedirectorypro.com/wp-content/uploads/2022/06/azure-domain-controller-featured.webp"/>
 </p>
 <p>
-Part 1: Create a Virtual Machine
-If you don’t have an Azure account you can create one for free. Microsoft gives you a $200 Azure credit for 30 days. This is plenty of credits to create several VMs and use other Azure resources.
+<h2>Part 1: Create a Virtual Machine</h2>
 
 Step 1. Sign in to your azure portal, https://portal.azure.com
 
