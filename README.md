@@ -30,10 +30,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://activedirectorypro.com/wp-content/uploads/2022/06/azure-domain-controller-featured.webp"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Part 1: Create a Virtual Machine
+If you don’t have an Azure account you can create one for free. Microsoft gives you a $200 Azure credit for 30 days. This is plenty of credits to create several VMs and use other Azure resources.
+
+Step 1. Sign in to your azure portal, https://portal.azure.com
+
+Step 2. Click on “Virtual machines”
 </p>
 <br />
 
