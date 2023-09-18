@@ -43,11 +43,12 @@ Step 1: Prepare Your On-Premises Active Directory:
 Step 2: Create a Virtual Network in Azure:
 
 When creating a virtual network in Azure, specify the following details:
-Name: Give your virtual network a descriptive name.
-Address Space: Define the IP address range for the virtual network.
-Subnets: Create one or more subnets within the virtual network for different purposes (e.g., Azure AD, application servers).
-Security Groups: Configure Network Security Groups (NSGs) to control inbound and outbound traffic to and from Azure VMs.
-Ensure that you have a VPN gateway or ExpressRoute circuit set up to establish connectivity between your on-premises network and Azure.
+- Name: Give your virtual network a descriptive name.
+- Address Space: Define the IP address range for the virtual network.
+- Subnets: Create one or more subnets within the virtual network for different purposes (e.g., Azure AD, application servers).
+- Security Groups: Configure Network Security Groups (NSGs) to control inbound and outbound traffic to and from Azure VMs.
+- Ensure that you have a VPN gateway or ExpressRoute circuit set up to establish connectivity between your on-premises network and Azure.
+
 Step 3: Create an Azure Virtual Machine for AD:
 
 When creating the Azure VM, specify:
