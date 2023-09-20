@@ -43,7 +43,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Step 2: Create a Virtual Network in Azure:</h2>
 <p>
-<img src="https://img.vembu.com/wp-content/uploads/2020/09/Resource9.png"/>
+<img src="https://i.stack.imgur.com/5NW5c.png"/>
 </p>
 When creating a virtual network in Azure, specify the following details:
 - Name: Give your virtual network a descriptive name.
