@@ -105,6 +105,8 @@ If needed, use Azure AD Connect to synchronize on-premises users, groups, and re
 
 <h2>Step 10: Backup and Disaster Recovery:</h2>
 
+<img src="https://blog.shi.com/wp-content/uploads/2019/04/azure-disaster-recovery-scenarios_714x390_03-1-768x419.png"/>
+
 Implement a backup and disaster recovery solution for Azure AD and Azure VMs using Azure Backup and Azure Site Recovery. Regularly back up your Azure AD data and have a disaster recovery plan in place.
 </p>
 <br />
