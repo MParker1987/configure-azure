@@ -70,7 +70,7 @@ After connecting to the Azure VM using RDP:
 - Proceed with the installation and reboot the VM if required.
   
 <h2>Step 5: Promote Azure VM to Domain Controller:</h2>
-
+<img src="https://activedirectorypro.com/wp-content/uploads/2022/06/create-vm-install-adds-4.webp"/>
 After the installation:
 - Open "Server Manager."
 - Click "Add roles and features" > "Active Directory Domain Services" > "Promote this server to a domain controller."
