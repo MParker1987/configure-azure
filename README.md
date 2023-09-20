@@ -62,7 +62,7 @@ When creating the Azure VM, specify:
 - Public IP Address: Assign a public IP address if you need remote access to the VM.
   
 <h2>Step 4: Install Active Directory Services on Azure VM:</h2>
-
+<img src="https://activedirectorypro.com/wp-content/uploads/2022/06/create-vm-install-adds-1.webp"/>
 After connecting to the Azure VM using RDP:
 - Open "Server Manager."
 - Navigate to "Manage" > "Add roles and features."
