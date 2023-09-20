@@ -90,7 +90,9 @@ After the installation:
 - Implement secure communication methods such as a site-to-site VPN or Azure ExpressRoute to establish a secure connection between on-premises and Azure.
   
 <h2>Step 8: Migrate Users and Resources:</h2>
+<p>
 <img src="https://learn.microsoft.com/en-us/azure/active-directory/authentication/media/how-to-mfa-server-migration-utility/view-user.png/>
+</p>
 <img src="https://learn.microsoft.com/en-us/azure/active-directory/authentication/media/how-to-mfa-server-migration-utility/settings.png/>
 <img src="https://learn.microsoft.com/en-us/azure/active-directory/authentication/media/how-to-mfa-server-migration-utility/migrate-users.png/>
 
