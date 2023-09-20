@@ -79,7 +79,7 @@ After the installation:
 - Configure the Directory Services Restore Mode (DSRM) password for disaster recovery.
   
 <h2>Step 6: Configure DNS and Replication:</h2>
-
+<img src="https://mizitechinfo.files.wordpress.com/2015/01/36.png"/>
 - Ensure that the Azure AD DC uses itself as the primary DNS server.
 - Set up DNS settings to allow communication between your on-premises DNS servers and the Azure AD DC.
 - Verify that replication between your on-premises DC and the Azure VM DC is working correctly by checking event logs and using tools like "Active Directory Sites and Services."
