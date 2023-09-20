@@ -42,9 +42,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Verify network connectivity between your on-premises network and Azure. You might need to set up a site-to-site VPN or an Azure ExpressRoute connection for secure communication between the two environments.
 
 <h2>Step 2: Create a Virtual Network in Azure:</h2>
-
+<p>
 <img src="https://img.vembu.com/wp-content/uploads/2020/09/Resource9.png"/>
-
+</p>
 When creating a virtual network in Azure, specify the following details:
 - Name: Give your virtual network a descriptive name.
 - Address Space: Define the IP address range for the virtual network.
