@@ -91,7 +91,7 @@ After the installation:
   
 <h2>Step 8: Migrate Users and Resources:</h2>
 <p>
-<img src="https://learn.microsoft.com/en-us/azure/active-directory/authentication/media/how-to-mfa-server-migration-utility/view-user.png/>
+<img src="https://learn.microsoft.com/en-us/azure/active-directory/authentication/media/how-to-mfa-server-migration-utility/view-user.png"/>
 </p>
 
 If needed, use Azure AD Connect to synchronize on-premises users, groups, and resources with Azure AD. This step ensures that user accounts are accessible in both environments.
